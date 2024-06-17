@@ -1,6 +1,7 @@
 server:
   port: 8070
-  context-path: "/eureka/manish"
+  servelet:
+    context-path: "/eureka/manish"
 
 eureka:
   instance:
