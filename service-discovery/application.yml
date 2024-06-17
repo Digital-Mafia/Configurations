@@ -1,6 +1,6 @@
 server:
   port: 8070
-  servelet:
+  servlet:
     context-path: "/eureka/manish"
 
 eureka:
